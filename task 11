@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>application</title>
+</head>
+<body>
+    <style>
+      header{
+        margin-left: 60rem;  
+      } 
+    </style>
+    <header>
+    <address> 
+        <p>
+        <h3>
+            Dr.Eleanor Gaye
+        </h3>
+        <h4>Awesome science faculty<br>
+            University of awesome <br>
+                 Bobtown,CA 99999, <br>
+                              USA <br>
+                <b>Tel</b> :84738438478<br>
+   <b> Email id</b>:no_reply@example.com<br>
+
+        </h4>
+        
+    </address>
+    <h4>
+     <time datetime="2016-01-20">20  january 2016</time></h4>
+    </p>
+</header>
+   <main>
+    <section>
+        <p><i>
+            <h3>
+                Miss Eileen Dover
+              </h3>
+              
+        
+            <h4>
+                
+                  4321 cliff Top Edge <br>
+                  Dover , CT9 XXXX <br>
+                  
+                  UK<br>
+                  </h4>
+                  </i>
+        </p>
+    </section>
+    <article>
+        <h2>
+       Re: Eileen Dover university application 
+        </h2>
+    
+            <h3> Dear Eileen,</h3>
+          <h4> <p> thank you for your recent application to join us at the university of awesome's science faculty to study as part of your phd next year . i will answer your questions one by one , in the following sections</p></h4>
+    
+    </article>
+    <article>
+        <h2> Starting dates</h2>
+       <h4> <p> we are happy to accommodate you starting your study with us at any time , however it would suit us better if you could start at the beginning of a semester ;the start dates for each one are as follows:
+        <ul>
+            <li>First semster :<time datetime="2016-09-09">9 september 2016</time></li>
+            <li> second semester:<time datetime="2017-01-15">15 january 2017</time></li>
+            <li>third semester:<time datetime="2017-05-02">2 may 2017</time></li>
+        </ul> 
+        please let me know if this is ok,and if so which start date you would prefer.
+        you can find more information about  
+        <a href="/important university dates.html">important university dates</a>
+        our website
+        </p></h4>
+    </article>
+    <article>
+    <h2> Subjects of study</h2>
+    <p><h4>
+  At the awesome Science faculty, we have a pretty open-minded research facility- as long as the subjects fall somewhere in the realm of science and technology . you seem like an intelligent ,dedicated researcher ,and just the kind of person we'd like to have on our team.saying that, of the ideas you submitted we were more intriguied by are as follows , in order of priority :
+  <ol>
+    <li> Turing H<sub>2</sub>o into wine, and the health of resveratrol (C<sub>14</sub>H<sub>12</sub>o<sub>3</sub>) </li>
+    <li> Measuring the effect on peformance of funk basslayers at the temperatures exceeding 30<sup>o</sup> (86<sup>o</sup>F), when the 
+        audience size exponentially increases(effect of 3 x 10<sup>3</sup> increasing to 3 x 10<sup>4</sup>)
+    </li>
+    <li>
+        <abbr title="Hypertext markup language">HTML</abbr> and <abbr title="cascading styling sheet">CSS</abbr> constructs for representing musical scores 
+    </li>
+    
+  </ol>
+   
+    </h4></p>
+    </article>
+    <article>
+        <h2> Exotic dances moves </h2>
+        <p>
+            <h4>
+                Yes,you are right! As part of my post-doctrate work,i did study exotic tribule dances.To answer your question,my favourite dances are as follows with definitions
+                <dl>
+                    <dt> Polynesian chicken dance</dt>
+                    <dd> A little known but <i>very</i> influential dance dating back as far as 300BC, a whole village would dance around in a circle like chickens, to encourage their livestock to be "fruitful".</dd>
+                </dl>
+                <dl> Iceland brownian shuffle</dl>
+                <dd> Before the icelanders developed fire as a means of getting warm,they used to practice this dance , which involved huddling close together in a circle on the floor , and shuffling their bodies around in imperceptibly tiny, very rapid movements. One of my fellow students used to say that he thought this dance inspired modern styles such as Twerking</dd>
+                <dl>Arctic robot dance</dl>
+                <dd>
+                    An interesting example of historic misinformation.English explores in the 1960s believed to have discovered a new dance style characterised by "robotic" , stilled movements , being practiced by inhabitants of Northern Alaska and canada . Later on however it was discovered that they were just moving like this because they wre really cold.
+                </dd>
+            </h4>
+        </p>
+    </article>
+    <footer>
+        <h4>
+        for more of my research,see my <a href="/exotic dance reseach page.html">exotic dance reseach page</a>
+        <div>
+            <p>
+            yours sincerly,<br>
+            <br>
+            Dr Eleanor gaye
+            </p>
+        </div>
+        <p> University of Awesome motto:<q cite=""> Be awesome to each other </q> <cite>The memories of Bill S preston .Esq</cite></p>
+</h4>
+    </footer>
+   </main>
+</body>
+</html>
